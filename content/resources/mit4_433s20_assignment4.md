@@ -3,7 +3,8 @@ body: ''
 content_type: resource
 description: ''
 draft: false
-file: /courses/4-433-modeling-urban-energy-flows-towards-sustainable-cities-and-neighborhoods-spring-2020/mit4_433s20_assignment4.pdf
+file: /ol-ocw-studio-app/courses/4-433-modeling-urban-energy-flows-towards-sustainable-cities-and-neighborhoods-spring-2020/mit4_433s20_assignment4.pdf
+file_size: 266331
 file_type: application/pdf
 image_metadata:
   caption: ''
