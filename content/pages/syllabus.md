@@ -29,7 +29,7 @@ At the end of this course, students will be able to:
 
 - Understand the various physical effects that generate urban microclimates and their impact on building energy use, carbon emissions, and thermal/luminous comfort in cities.
 - Evaluate new and existing neighborhoods regarding key environmental performance indicators including energy consumption, material consumption, daylight hours, outdoor comfort, and neighborhood walkability.
-- Run computer simulations for such metrics, using 3D models generated in Rhinoceros using MIT’s [Urban Modeling Interface](http://web.mit.edu/sustainabledesignlab/projects/umi).
+- Run computer simulations for such metrics, using 3D models generated in Rhinoceros using MIT’s {{% resource_link "9e0cbcab-2738-40be-b680-427ccdfabc41" "Urban Modeling Interface" %}}.
 - Conduct a series of design interventions to improve these performance indicators for a given neighborhood design.
 
 Work for the class will be divided into a series of homework assignments that successively build up to a mixed-use neighborhood proposal that will include several hundred residential and commercial buildings and is linked to ongoing projects at the MIT Sustainable Design Lab. A key task for all groups will be the use of digital analysis methods to build a convincing argument as to why a particular proposal deserves to be called 'sustainable'. The instructor and members of the Sustainable Design Lab will closely work with all student groups on defining overall project goals and specific deliverables. Possible design questions students will be able to explore are:
@@ -61,10 +61,10 @@ Attendance and active participation in all lectures and labs is mandatory. Timel
 
 Throughout the course, we will be using a Rhinoceros/Grasshopper-based urban modeling environment called UMI as well as a series of compatible, third-party Grasshopper components. UMI enables urban designers to model new and/or existing neighborhoods regarding operational energy, embodied energy, daylight, thermal comfort, and neighborhood walkability. Selected UMI modules can be used in Grasshopper for parametric urban design analysis and optimization. Detailed software installation instructions and support will be provided in class and during lab. Additional custom tools will be prepared when required during the course depending on student needs for the semester projects. The specific programs used are:
 
-- [Rhinoceros 6.0](http://www.rhino3d.com/)
-- [UMI](http://www.urbanmodeling.net)
-- [ClimateStudio](http://solemma.com)
+- {{% resource_link "f0f618c8-d9e0-4502-9e3e-c4e191a25abe" "Rhinoceros 6.0" %}}
+- {{% resource_link "8b71c6e9-6220-4850-88b8-13360b952730" "UMI" %}}
+- {{% resource_link "da5c212e-b776-48f0-88dc-cf3ce91abbe6" "ClimateStudio" %}}
 
 ## Academic Integrity
 
-As in any other MIT course and especially in a research context, plagiarism and cheating are not acceptable. Never turn in an assignment that is not your own work, or products that do not include your own work as part of team assignment. If necessary, please refamiliarize yourself with the MIT Academic Integrity Handbook, which can be downloaded from [http://web.mit.edu/academicintegrity/](http://web.mit.edu/academicintegrity/).
+As in any other MIT course and especially in a research context, plagiarism and cheating are not acceptable. Never turn in an assignment that is not your own work, or products that do not include your own work as part of team assignment. If necessary, please refamiliarize yourself with the MIT Academic Integrity Handbook, which can be downloaded from {{% resource_link "8905158b-f12e-4376-bc75-6c3348478044" "http://web.mit.edu/academicintegrity/" %}}.
